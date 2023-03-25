@@ -1,0 +1,120 @@
+.body{
+    background-color: #C71585;
+    background-size: cover;
+   
+}
+.top{
+    text-align: center;
+    justify-content: center;
+    color: #fff;
+    margin-top: 200px;
+
+    
+}
+.top a{
+    color: blue;
+}
+h1{
+    font-size: 40px;
+}
+.top input{
+    padding: 10px 32px;
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+    
+}
+.user_type{
+    padding: 10px 32px;
+    background-color: aquamarine;
+    color: #C71585;
+    font-weight: bold;
+
+}
+.restre{
+
+    text-align: center;
+    justify-content: center;
+    color: #fff;
+    margin-top: 100px;
+}
+.restre input{
+    padding: 15px 30px;
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+}
+.sele{
+    padding: 15px 30px;
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+    
+}
+p a{
+    color: blue;
+}
+h1{
+    color: white;
+    font-family: 'times new romance';
+    text-align: center;
+}
+.colo{
+    width: 350px;
+    height: 400px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 30px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(img/c2.jpg);
+    background-position: center;
+    background-size: cover;
+    transition: transform 0.5s;
+    
+}
+.card1{
+    background-image: url(img/c12.jpeg);
+}
+.card2{
+    background-image: url(img/c16.jpg);
+}
+.card3{
+    background-image: url(img/p1-.jpeg);
+}
+.card4{
+    background-image: url(img/p2.jpg);
+}
+.card5{
+    background-image: url(img/p1.jpg);
+}
+.card6{
+    background-image: url(img/p3.jpg);
+}
+.card7
+{
+    background-image: url(img/p4.jpeg);
+}
+.card8{
+    background-image: url(img/p5.jpg);
+}
+.card9{
+    background-image: url(img/pa.jpg);
+}
+.card10{
+    background-image: url(img/images.jpeg);
+}
+.card:hover{
+    transform: translateY(-10px);
+}
+h2{
+    text-align: center;
+    color: #fff;
+}
+button a{
+    padding: 40px 50px;
+    font-weight: bold;
+    color: black;
+
+}

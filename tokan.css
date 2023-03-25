@@ -1,0 +1,45 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/los.jpg);
+    background-size: cover;
+    
+
+}
+
+.form1 input{
+    
+    padding: 5px 30px;
+    border-radius: 5px;
+ 
+
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: #fff;
+    
+
+}
+
+button{
+    padding: 10px 25px;
+    font-size: 13px;
+    font-weight: bold;
+    background-color:red;
+    color: #fff;
+    border-radius: 5px;
+}
+
+h3{
+    color: #fff;
+    font-size: 28px;
+}
+.mmain{
+   
+    
+}
+.tokn{
+    margin-left: 100px;
+    margin-top: 50px;
+}
